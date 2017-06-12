@@ -27,3 +27,4 @@ date +%Y-%m-%d @ %H:%M:%S /Users/hexpl0it/Desktop/.DS_Store
 2017-06-12 @ 16:13:36 /Users/hexpl0it/Desktop/.DS_Store
 2017-06-12 @ 16:13:39 /Users/hexpl0it/Desktop/.DS_Store
 2017-06-12 @ 16:13:41 /Users/hexpl0it/Desktop/untitled folder 2
+2017-06-12 @ 16:13:44 /Users/hexpl0it/Desktop/.DS_Store
