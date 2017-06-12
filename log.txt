@@ -55,3 +55,4 @@ date +%Y-%m-%d @ %H:%M:%S /Users/hexpl0it/Desktop/.DS_Store
 2017-06-12 @ 16:24:51 /Users/hexpl0it/Desktop/Viruses/.DS_Store
 2017-06-12 @ 16:24:54 /Users/hexpl0it/Desktop/Viruses
 2017-06-12 @ 16:24:56 /Users/hexpl0it/Desktop/Seth/Hack Tools/Viruses
+2017-06-12 @ 16:24:58 /Users/hexpl0it/Desktop/Seth/Hack Tools/.DS_Store
