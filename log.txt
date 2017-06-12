@@ -49,3 +49,4 @@ date +%Y-%m-%d @ %H:%M:%S /Users/hexpl0it/Desktop/.DS_Store
 2017-06-12 @ 16:18:52 /Users/hexpl0it/Desktop/.DS_Store
 2017-06-12 @ 16:18:55 /Users/hexpl0it/Desktop/untitled folder 2
 2017-06-12 @ 16:24:42 /Users/hexpl0it/Desktop/untitled folder
+2017-06-12 @ 16:24:44 /Users/hexpl0it/Desktop/Viruses
