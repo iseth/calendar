@@ -177,3 +177,4 @@ date +%Y-%m-%d @ %H:%M:%S /Users/hexpl0it/Desktop/.DS_Store
 2017-06-12 @ 19:54:49 /Users/hexpl0it/files/git/Git-Watch-Push/.gitWatchPush.sh.swp
 2017-06-12 @ 19:54:50 /Users/hexpl0it/files/git/Git-Watch-Push/.gitWatchPush.sh.swp
 2017-06-12 @ 19:54:50 /Users/hexpl0it/files/git/Git-Watch-Push/.gitWatchPush.sh.swp
+2017-06-12 @ 19:54:51 /Users/hexpl0it/files/git/Git-Watch-Push/.gitWatchPush.sh.swp
