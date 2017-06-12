@@ -120,3 +120,4 @@ date +%Y-%m-%d @ %H:%M:%S /Users/hexpl0it/Desktop/.DS_Store
 2017-06-12 @ 19:14:24 /Users/hexpl0it/Desktop/.DS_Store
 2017-06-12 @ 19:14:28 /Users/hexpl0it/Desktop/untitled folder
 2017-06-12 @ 19:14:33 /Users/hexpl0it/Desktop/.DS_Store
+2017-06-12 @ 19:14:36 /Users/hexpl0it/Desktop/untitled folder
