@@ -41,3 +41,4 @@ date +%Y-%m-%d @ %H:%M:%S /Users/hexpl0it/Desktop/.DS_Store
 2017-06-12 @ 16:17:58 /Users/hexpl0it/Desktop/BibleBuddies
 2017-06-12 @ 16:18:26 /Users/hexpl0it/Desktop/bash
 2017-06-12 @ 16:18:30 /Users/hexpl0it/Desktop/.DS_Store
+2017-06-12 @ 16:18:33 /Users/hexpl0it/Desktop/bash
