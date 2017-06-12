@@ -226,3 +226,4 @@ date +%Y-%m-%d @ %H:%M:%S /Users/hexpl0it/Desktop/.DS_Store
 2017-06-12 @ 19:57:57 /Users/hexpl0it/files/git/Git-Watch-Push/.git/hooks/pre-applypatch.sample
 2017-06-12 @ 19:57:59 /Users/hexpl0it/files/git/Git-Watch-Push/.git/hooks/pre-commit.sample
 2017-06-12 @ 19:57:59 /Users/hexpl0it/files/git/Git-Watch-Push/.git/hooks/pre-commit.sample
+2017-06-12 @ 19:57:59 /Users/hexpl0it/files/git/Git-Watch-Push/.git/hooks/pre-commit.sample
