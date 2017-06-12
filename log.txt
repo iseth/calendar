@@ -217,3 +217,4 @@ date +%Y-%m-%d @ %H:%M:%S /Users/hexpl0it/Desktop/.DS_Store
 2017-06-12 @ 19:57:53 /Users/hexpl0it/files/git/Git-Watch-Push/.git/hooks/commit-msg.sample
 2017-06-12 @ 19:57:53 /Users/hexpl0it/files/git/Git-Watch-Push/.git/hooks/commit-msg.sample
 2017-06-12 @ 19:57:54 /Users/hexpl0it/files/git/Git-Watch-Push/.git/hooks/post-update.sample
+2017-06-12 @ 19:57:55 /Users/hexpl0it/files/git/Git-Watch-Push/.git/hooks/post-update.sample
