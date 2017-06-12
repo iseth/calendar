@@ -435,3 +435,4 @@ date +%Y-%m-%d @ %H:%M:%S /Users/hexpl0it/Desktop/.DS_Store
 2017-06-12 @ 19:59:50 /Users/hexpl0it/files/git/Git-Watch-Push/.git/HEAD.lock
 2017-06-12 @ 19:59:50 /Users/hexpl0it/files/git/Git-Watch-Push/.git/index
 2017-06-12 @ 19:59:50 /Users/hexpl0it/files/git/Git-Watch-Push/.git/HEAD.lock
+2017-06-12 @ 19:59:50 /Users/hexpl0it/files/git/Git-Watch-Push/.git/HEAD.lock
