@@ -267,3 +267,6 @@ date +%Y-%m-%d @ %H:%M:%S /Users/hexpl0it/Desktop/.DS_Store
 2017-06-12 @ 19:58:22 /Users/hexpl0it/files/git/Git-Watch-Push/.git/refs/tags
 2017-06-12 @ 19:58:22 /Users/hexpl0it/files/git/Git-Watch-Push/.git/refs/tags
 2017-06-12 @ 19:58:22 /Users/hexpl0it/files/git/Git-Watch-Push/.git/refs/tags
+2017-06-12 @ 19:58:22 /Users/hexpl0it/files/git/Git-Watch-Push/.git/refs/tags
+2017-06-12 @ 19:58:24 /Users/hexpl0it/files/git/Git-Watch-Push/.git/HEAD.lock
+2017-06-12 @ 19:58:24 /Users/hexpl0it/files/git/Git-Watch-Push/.git/HEAD.lock
