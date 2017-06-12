@@ -240,3 +240,4 @@ date +%Y-%m-%d @ %H:%M:%S /Users/hexpl0it/Desktop/.DS_Store
 2017-06-12 @ 19:58:06 /Users/hexpl0it/files/git/Git-Watch-Push/.git/hooks/pre-receive.sample
 2017-06-12 @ 19:58:06 /Users/hexpl0it/files/git/Git-Watch-Push/.git/hooks/pre-receive.sample
 2017-06-12 @ 19:58:06 /Users/hexpl0it/files/git/Git-Watch-Push/.git/hooks/pre-receive.sample
+2017-06-12 @ 19:58:08 /Users/hexpl0it/files/git/Git-Watch-Push/.git/hooks/prepare-commit-msg.sample
