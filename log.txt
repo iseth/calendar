@@ -408,3 +408,4 @@ date +%Y-%m-%d @ %H:%M:%S /Users/hexpl0it/Desktop/.DS_Store
 2017-06-12 @ 19:59:35 /Users/hexpl0it/files/git/Git-Watch-Push/.git/logs/HEAD
 2017-06-12 @ 19:59:35 /Users/hexpl0it/files/git/Git-Watch-Push/.git/logs
 2017-06-12 @ 19:59:35 /Users/hexpl0it/files/git/Git-Watch-Push/.git/logs
+2017-06-12 @ 19:59:37 /Users/hexpl0it/files/git/Git-Watch-Push/.git/logs/refs
