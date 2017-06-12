@@ -53,3 +53,4 @@ date +%Y-%m-%d @ %H:%M:%S /Users/hexpl0it/Desktop/.DS_Store
 2017-06-12 @ 16:24:47 /Users/hexpl0it/Desktop/.DS_Store
 2017-06-12 @ 16:24:49 /Users/hexpl0it/Desktop/Viruses/elroiie.ovpn
 2017-06-12 @ 16:24:51 /Users/hexpl0it/Desktop/Viruses/.DS_Store
+2017-06-12 @ 16:24:54 /Users/hexpl0it/Desktop/Viruses
