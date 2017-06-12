@@ -64,3 +64,4 @@ date +%Y-%m-%d @ %H:%M:%S /Users/hexpl0it/Desktop/.DS_Store
 2017-06-12 @ 16:25:19 /Users/hexpl0it/Desktop/Seth/.DS_Store
 2017-06-12 @ 16:25:28 /Users/hexpl0it/Desktop/Seth/Hack Tools/.DS_Store
 2017-06-12 @ 16:25:31 /Users/hexpl0it/Desktop/Seth/.DS_Store
+2017-06-12 @ 16:25:33 /Users/hexpl0it/Desktop/HackSpy Trojan Exploit
