@@ -477,3 +477,4 @@ date +%Y-%m-%d @ %H:%M:%S /Users/hexpl0it/Desktop/.DS_Store
 2017-06-12 @ 20:00:16 /Users/hexpl0it/files/git/Git-Watch-Push/.git/logs/refs/remotes/origin/master
 2017-06-12 @ 20:00:16 /Users/hexpl0it/files/git/Git-Watch-Push/.git/refs/remotes/origin/master.lock
 2017-06-12 @ 20:00:18 /Users/hexpl0it/files/git/Git-Watch-Push/.git/refs/remotes/origin/master.lock
+2017-06-12 @ 20:00:18 /Users/hexpl0it/files/git/Git-Watch-Push/.git/refs/remotes/origin/master.lock
