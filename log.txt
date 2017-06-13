@@ -494,3 +494,4 @@ date +%Y-%m-%d @ %H:%M:%S /Users/hexpl0it/Desktop/.DS_Store
 2017-06-12 @ 20:02:55 /Users/hexpl0it/files/git/dockers/sub/af
 2017-06-12 @ 20:02:55 /Users/hexpl0it/files/git/dockers/sub/af
 2017-06-12 @ 20:02:55 /Users/hexpl0it/files/git/dockers/sub/af
+2017-06-12 @ 20:02:57 /Users/hexpl0it/files/git/dockers/sub/.git/index.lock
